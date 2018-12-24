@@ -50,7 +50,7 @@
 <body>
 
 <div id="page">
-
+	<div class="class">vijay</div>
 
 <div id="header">
 	<div id="headerimg">
